@@ -1,8 +1,7 @@
 
 /**
- * Write a description of class Hra here.
  * Slúži na spustenie hry, na jej zastavenie a na uloženie skóre.
- * @author Bugan
+ * @author Boris Bugan
  * @version 1.0 18. 11. 2025
  */
 public class Hra {
@@ -13,5 +12,7 @@ public class Hra {
         // initialise instance variables
     }
     
-    public void spustiHru() {}
+    public void spustiHru() {
+        
+    }
 }
