@@ -5,7 +5,7 @@ import fri.shapesge.Stvorec;
  * @Tomáš Vitko 
  * @0.1
  */
-public class Políčko {
+public class Policko {
     /**
      * Constructor for objects of class Políčko
      */
