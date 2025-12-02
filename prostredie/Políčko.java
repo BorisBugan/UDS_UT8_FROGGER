@@ -7,12 +7,12 @@ import fri.shapesge.Stvorec;
  */
 public class Policko {
     /**
-     * Constructor for objects of class Políčko
+     * Constructor for objects of class Policko
      */
     private Stvorec stvorec;
     //private Frogg frogg;
     //private Prekazka prekazka;
-    public Políčko(int x, int y, int velkost) {
+    public Policko(int x, int y, int velkost) {
         this.stvorec = new Stvorec();
         this.stvorec.zmenPolohu(x, y);
         this.stvorec.zmenStranu(velkost);
