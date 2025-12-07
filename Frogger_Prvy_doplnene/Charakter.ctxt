@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Charakter
+comment1.params=polohaX\ polohaY\ cestaKSuboru
+comment1.target=Charakter(int,\ int,\ java.lang.String)
+comment2.params=polohaX
+comment2.target=void\ zmenPolohu(int)
+comment3.params=aktivny
+comment3.target=void\ setJeAktivny(boolean)
+comment3.text=\r\n\ Men\u00ED\ stav\ aktivity\ charaktera\ pod\u013Ea\ zadanej\ hodnoty.\r\n
+comment4.params=
+comment4.target=boolean\ getJeAktivny()
+comment4.text=\r\n\ Vracia\ stav\ charaktera.\r\n
+comment5.params=posun
+comment5.target=void\ setPolohaY(int)
+comment6.params=
+comment6.target=int\ getPolohaY()
+comment7.params=
+comment7.target=int\ getPolohaX()
+comment8.params=
+comment8.target=void\ resetPolohy()
+numComments=9
