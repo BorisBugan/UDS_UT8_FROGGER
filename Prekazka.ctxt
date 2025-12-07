@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Prekazka
+comment0.text=\r\n\ Trieda\ zodpovedn\u00E1\ za\ generovanie\ Mapy\r\n\ \r\n\ @Tomas\ Vitko\r\n\ @version\ 0.1\r\n
+comment1.params=cestaKObrazku\ rychlost\ sirkaMapy\ vyskaMapy
+comment1.target=Prekazka(java.lang.String,\ double,\ int,\ int)
+comment1.text=\r\n\ @param\ cestaKObrazku\ -\ cesta\ k\ png\ s\u00FAboru\r\n\ @param\ rychlost\ -\ r\u00FDchlos\u0165\ pohybu\ po\ osi\ X\r\n\ @param\ sirkaMapy\ -\ \u0161\u00EDrka\ hern\u00E9ho\ okna\r\n\ @param\ vyskaMapy\ -\ v\u00FD\u0161ka\ hern\u00E9ho\ okna\r\n
+comment2.params=
+comment2.target=void\ update()
+comment2.text=Pohyb\ prek\u00E1\u017Eky\ po\ osi\ X
+comment3.params=
+comment3.target=void\ resetPosition()
+comment3.text=N\u00E1hodn\u00E9\ Y\ a\ X\ poz\u00EDcia\ mimo\ obrazovky
+comment4.params=
+comment4.target=int\ getX()
+comment5.params=
+comment5.target=int\ getY()
+numComments=6

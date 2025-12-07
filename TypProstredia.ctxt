@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TypProstredia
+comment0.text=\r\n\ Enum\ ktory\ v\ sebe\ drzi\ druhy\ prostredi\ v\ hre\r\n\ \r\n\ @Tomas\ Vitko\r\n\ @1.0\r\n
+comment1.params=cestaKSuboru
+comment1.target=TypProstredia(java.lang.String)
+comment1.text=\r\n\ Uklad\u00E1\ cestu\ s\u00FAboru\ do\ premennej\ pod\u013Ea\ danej\ in\u0161tancie.\r\n\ @param\ cestaKSuboru\ Cesta\ k\ s\u00FAboru\ s\ obr\u00E1zkom.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCestaKSuboru()
+comment2.text=\r\n\ Vr\u00E1ti\ cestu\ k\ s\u00FAboru\ danej\ pod\u013Ea\ danej\ in\u0161tancie.\r\n\ @return\ Cestu\ k\ s\u00FAboru\ s\ obr\u00E1zkom.\r\n
+numComments=3
