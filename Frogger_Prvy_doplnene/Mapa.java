@@ -1,3 +1,5 @@
+package Frogger_Prvy_doplnene;
+
 import java.util.Random;
 /**
  * Write a description of class Mapa here.

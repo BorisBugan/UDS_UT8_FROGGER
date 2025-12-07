@@ -1,3 +1,5 @@
+package Frogger_Prvy_doplnene;
+
 import fri.shapesge.Obrazok;
 import java.util.Random;
 

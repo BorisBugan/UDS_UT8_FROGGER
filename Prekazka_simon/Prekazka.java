@@ -1,3 +1,5 @@
+package Prekazka_simon;
+
 
 /**
  * Trieda, ktorá vytvára prekážky do hry

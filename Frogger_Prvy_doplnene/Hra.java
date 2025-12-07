@@ -1,3 +1,5 @@
+package Frogger_Prvy_doplnene;
+
 import fri.shapesge.Manazer;
 import fri.shapesge.Obrazok;
 import fri.shapesge.BlokTextu;
