@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Prekazka
+comment0.text=\r\n\ Trieda\ zodpovedn\u00E1\ za\ generovanie\ prek\u00E1\u017Eok\ v\ hre.\r\n\ Ka\u017Ed\u00E1\ prek\u00E1\u017Eka\ m\u00E1\ svoj\ obr\u00E1zok,\ poz\u00EDciu\ a\ r\u00FDchlos\u0165\ pohybu.\r\n\ \r\n\ @author\ Tomas\ Vitko\r\n\ @version\ 0.1\r\n
+comment1.params=cestaKObrazku\ rychlost\ sirkaMapy\ vyskaMapy
+comment1.target=Prekazka(java.lang.String,\ double,\ int,\ int)
+comment1.text=\r\n\ Vytvor\u00ED\ nov\u00FA\ prek\u00E1\u017Eku\ s\ dan\u00FDm\ obr\u00E1zkom\ a\ r\u00FDchlos\u0165ou.\r\n\ Inicializuje\ aj\ n\u00E1hodn\u00FA\ po\u010Diato\u010Dn\u00FA\ poz\u00EDciu\ mimo\ obrazovky.\r\n\ \r\n\ @param\ cestaKObrazku\ Cesta\ k\ PNG\ s\u00FAboru\ obr\u00E1zku\ prek\u00E1\u017Eky\r\n\ @param\ rychlost\ R\u00FDchlos\u0165\ pohybu\ prek\u00E1\u017Eky\ po\ osi\ X\r\n\ @param\ sirkaMapy\ \u0160\u00EDrka\ hern\u00E9ho\ okna\r\n\ @param\ vyskaMapy\ V\u00FD\u0161ka\ hern\u00E9ho\ okna\r\n
+comment2.params=
+comment2.target=void\ update()
+comment2.text=\r\n\ Aktualizuje\ polohu\ prek\u00E1\u017Eky\ po\ osi\ X\ pod\u013Ea\ jej\ r\u00FDchlosti.\r\n\ Ak\ prek\u00E1\u017Eka\ vyjde\ z\ obrazovky,\ resetuje\ jej\ poz\u00EDciu.\r\n
+comment3.params=
+comment3.target=void\ resetPosition()
+comment3.text=\r\n\ Resetuje\ poz\u00EDciu\ prek\u00E1\u017Eky\ na\ n\u00E1hodn\u00FA\ poz\u00EDciu\ mimo\ obrazovky.\r\n\ Pou\u017E\u00EDva\ sa\ napr.\ po\ tom,\ ako\ prek\u00E1\u017Eka\ pre\u0161la\ cel\u00FA\ obrazovku.\r\n
+comment4.params=
+comment4.target=int\ getX()
+comment4.text=\r\n\ Vr\u00E1ti\ horizont\u00E1lnu\ poz\u00EDciu\ prek\u00E1\u017Eky\ (pre\ kol\u00EDzie\ alebo\ pohyb).\r\n\ \r\n\ @return\ Aktu\u00E1lna\ X\ poz\u00EDcia\ prek\u00E1\u017Eky\r\n
+comment5.params=
+comment5.target=int\ getY()
+comment5.text=\r\n\ Vr\u00E1ti\ vertik\u00E1lnu\ poz\u00EDciu\ prek\u00E1\u017Eky\ (pre\ kol\u00EDzie\ alebo\ pohyb).\r\n\ \r\n\ @return\ Aktu\u00E1lna\ Y\ poz\u00EDcia\ prek\u00E1\u017Eky\r\n
+comment6.params=y
+comment6.target=void\ zmenY(int)
+comment6.text=\r\n\ Nastav\u00ED\ nov\u00FA\ hodnotu\ Y\ pre\ prek\u00E1\u017Eku.\r\n
+numComments=7
