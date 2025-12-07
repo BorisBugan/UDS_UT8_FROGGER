@@ -1,12 +1,18 @@
-import fri.shapesge.Obrazok;
 /**
  * Enum, ktorý obsahuje cesty k súborom s obrázkami pre postavičku a pre menu.
  * 
  * @author Boris Bugan
- * @version 1
+ * @version 5. 12. 2025
  */
 public enum Obraz {
+    /**
+     * Charakter. 
+     */
     POSTAVICKA("assets\\charakter.png"),
+    
+    /**
+     * Obrázok, ktorý sa ukáže keď je hra pozastavená.
+     */
     MENU("assets\\menu.png");
     
     private String cestaKSuboru;
@@ -15,7 +21,7 @@ public enum Obraz {
      * Ukladá cestu súpodru do premennej podľa danej inštancie.
      * @param cestaKSuboru Cesta k súboru s obrázkom.
      */
-    private Obraz(String cestaKSuboru) {
+    Obraz(String cestaKSuboru) {
         this.cestaKSuboru = cestaKSuboru;
     }
     
